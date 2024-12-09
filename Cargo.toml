@@ -6,7 +6,6 @@ description = "A protocol only implementation of http1.1 and http2"
 license = "MIT"
 license-file = "LICENSE"
 repository = "https://github.com/msohailx/yo"
-documentation = ""
 homepage = "https://github.com/msohailx/yo"
 
 
