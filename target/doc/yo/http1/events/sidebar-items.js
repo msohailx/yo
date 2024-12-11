@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Event"],"struct":["ConnectionClosed","Data","EndOfMessage","Headers","InformationalResponse","LocalProtocolError","Request","Response"]};

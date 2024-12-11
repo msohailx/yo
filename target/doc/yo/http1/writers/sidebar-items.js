@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Event","Sentinel"],"fn":["create_writers","write_any_response","write_headers","write_request"],"struct":["ChunkedWriter","ContentLengthWriter","Headers","Http10Writer","InformationalResponse","LocalProtocolError","Request","Response"],"trait":["BodyWriter"],"type":["Writer"]};

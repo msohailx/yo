@@ -1,0 +1,1 @@
+HashMap<(writers::Sentinel, writers::Sentinel), Box<(dyn Fn(writers::Event, Box<(dyn for<'a> Fn(&'a [u8]) -> Result<(), std::io::Error> + Send + Sync + 'static)>) -> Result<(), std::io::Error> + Send + Sync + 'static)>>

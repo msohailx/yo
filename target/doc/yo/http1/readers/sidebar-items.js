@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["build_readers","expect_nothing"],"struct":["ChunkedReader","ContentLengthReader","Data","EndOfMessage","Http10Reader","InformationalResponse","LocalProtocolError","ReceiveBuffer","RemoteProtocolError","Request","Response"],"trait":["Reader"],"type":["ReadersType"]};

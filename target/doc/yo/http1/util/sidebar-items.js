@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ProtocolError"],"fn":["bytesify","validate"],"struct":["SentinelType"],"trait":["Sentinel"]};

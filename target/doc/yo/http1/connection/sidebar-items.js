@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEFAULT_MAX_INCOMPLETE_EVENT_SIZE"],"enum":["ConnectionState","Event","Role","Sentinel"],"fn":["get_comma_header","set_comma_header"],"struct":["Connection","InformationalResponse","ReceiveBuffer","Request","Response"]};

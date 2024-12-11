@@ -1,0 +1,1 @@
+Box<for<'a, 'b> fn(&'a writers::Response, &'b Box<(dyn for<'a> Fn(&'a [u8]) -> Result<(), std::io::Error> + Send + Sync + 'static)>) -> Result<(), std::io::Error> {write_any_response}>
